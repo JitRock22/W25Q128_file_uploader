@@ -72,3 +72,6 @@ Easily transfer files such as text, configuration data, or images to external fl
 2. **Install Required Library**
    ```bash
    pip install pyserial
+3.**Run Uploader.py**
+   ```bash
+   Python uploader.py COM4 cute.bin 0x000000
