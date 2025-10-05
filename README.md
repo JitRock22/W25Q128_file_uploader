@@ -73,5 +73,6 @@ Easily transfer files such as text, configuration data, or images to external fl
    ```bash
    pip install pyserial
 3.**Run Uploader.py**
+   Format : Python File_name Port bin_file address
    ```bash
    Python uploader.py COM4 cute.bin 0x000000
